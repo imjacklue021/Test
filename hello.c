@@ -4,6 +4,4 @@ int main(){
     printf("asdhas");
     return 0;
 }
-
-int a, b;
-jawojd
+东欧弄弄    
